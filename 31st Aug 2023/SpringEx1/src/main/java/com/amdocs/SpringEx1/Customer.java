@@ -4,6 +4,8 @@ public class Customer {
 
 	private int custid;
 	private String custname;
+	//Dependent Object
+	private Address address;
 
 	public Customer(String custname) {
 		// super();
@@ -16,16 +18,31 @@ public class Customer {
 	}
 
 	public Customer(int custid, String custname) {
-		super();
+		//super();
 		this.custid = custid;
 		this.custname = custname;
 	}
 	
+	
+
+	public Customer(int custid, String custname, Address address) {
+		this.custid = custid;
+		this.custname = custname;
+		this.address = address;
+	}
 
 	@Override
 	public String toString() {
-		return "Customer [custid=" + custid + ", custname=" + custname + "]";
+		return "Customer [custid=" + custid + ", "
+				+ "custname=" + custname 
+				+ ", address=" + address + "]";
 	}
+
+	
+	
+
+	
+	
 
 //	
 //	public int getCustid() {

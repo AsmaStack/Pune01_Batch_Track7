@@ -11,7 +11,6 @@ public class TestCustomerApp {
 
 	public static void main(String[] args) {
 
-		
 		/*Resource resc= new ClassPathResource("applicationContext.xml");
 		BeanFactory factory= new XmlBeanFactory(resc);*/
 
@@ -19,6 +18,7 @@ public class TestCustomerApp {
 		
 		Customer customer=(Customer) context.getBean(Customer.class);
 		System.out.println(customer.toString());
+		
 	}
 
 }
