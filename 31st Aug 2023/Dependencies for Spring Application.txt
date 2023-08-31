@@ -1,0 +1,21 @@
+<!-- https://mvnrepository.com/artifact/org.springframework/org.springframework.beans -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>org.springframework.beans</artifactId>
+    <version>3.0.1.RELEASE-A</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.apache.commons/com.springsource.org.apache.commons.logging -->
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>com.springsource.org.apache.commons.logging</artifactId>
+    <version>1.1.1</version>
+</dependency>
+
+
+<!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-beans</artifactId>
+    <version>3.0.1.RELEASE</version>
+</dependency>
