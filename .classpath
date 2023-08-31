@@ -37,13 +37,13 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/jmxtools-1.2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prajwals/Desktop/Pune01_Batch_Track7/31st Aug 2023/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

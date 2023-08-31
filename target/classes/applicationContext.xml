@@ -19,6 +19,21 @@
       <constructor-arg type="int">
      <value>10</value>
      </constructor-arg>
+     
+     <constructor-arg>
+     <ref bean="addr1"/>
+     </constructor-arg>
+     
+     </bean>
+     
+     
+     <bean id="addr1" class="springEx1.Address" >
+     
+     <property name = "state" value ="punjab">
+     </property>
+     <property name ="country" value ="India">
+     </property>
+     
      </bean>
 
 </beans>
