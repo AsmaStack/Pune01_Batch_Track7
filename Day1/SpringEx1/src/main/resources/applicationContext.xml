@@ -28,8 +28,7 @@
        <bean id="addr1" class="com.amdocs.SpringEx1.Address">
        <property name="state" value="maharastra"></property>
         <property name="country" value="India"></property>
-       
-       
+              
        </bean>
 
 </beans>
