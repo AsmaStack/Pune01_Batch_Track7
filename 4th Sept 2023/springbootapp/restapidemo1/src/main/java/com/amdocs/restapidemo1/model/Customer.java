@@ -9,6 +9,7 @@ public class Customer {
 	@Id
 	private long custid;
 	private String custname;
+	
 	public Customer() {
 		// TODO Auto-generated constructor stub
 	}
